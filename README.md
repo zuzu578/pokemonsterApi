@@ -1,4 +1,4 @@
-# pokemonsterApi
+# 포켓몬 도감!
 <img width="954" alt="스크린샷 2021-08-24 오후 1 57 58" src="https://user-images.githubusercontent.com/69393030/130558196-a364db3c-4e67-43bc-9a96-b8dfb4dc3b1e.png">
 # 사용
 https://pokeapi.co/ 에서 포켓몬 rest api 통신을 합니다.
